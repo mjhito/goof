@@ -1,6 +1,4 @@
-# Snyk (https://snyk.io) policy file
-
+# exclude test files from being scanned by Snyk Code
 exclude:
   code:
-    # Exclude a single file. For example, - test.spec.js
-    - ‎db.js
+    - db.js
