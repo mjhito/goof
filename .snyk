@@ -1,4 +1,4 @@
 # exclude test files from being scanned by Snyk Code
 exclude:
   code:
-    - db.js
+    - routes.py
